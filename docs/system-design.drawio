@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.6">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.8.9">
   <diagram name="Página-1" id="UOtgKLbIlTYF0dPx8f3Z">
-    <mxGraphModel dx="2234" dy="738" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1995" dy="615" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -22,23 +22,23 @@
         <mxCell id="bB6B98M6eBiy5riYellN-9" value="Inventory.Api" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="Z36HARrkBUyqiJneXb2r-9" vertex="1">
           <mxGeometry x="12" width="87" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="bB6B98M6eBiy5riYellN-22" value="" style="group" parent="Z36HARrkBUyqiJneXb2r-27" vertex="1" connectable="0">
-          <mxGeometry x="149" y="40.75" width="61.99999999999994" height="76.5" as="geometry" />
+        <mxCell id="Z36HARrkBUyqiJneXb2r-26" value="&lt;b&gt;Inventory Microservice&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="Z36HARrkBUyqiJneXb2r-27" vertex="1">
+          <mxGeometry x="42" width="151" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bB6B98M6eBiy5riYellN-19" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/512/6470/6470816.png;" parent="bB6B98M6eBiy5riYellN-22" vertex="1">
-          <mxGeometry x="9.449999999999989" y="22.5" width="43.1" height="46.5" as="geometry" />
+        <mxCell id="bB6B98M6eBiy5riYellN-22" value="" style="group" parent="Z36HARrkBUyqiJneXb2r-27" vertex="1" connectable="0">
+          <mxGeometry x="151" y="43" width="62" height="86.5" as="geometry" />
         </mxCell>
         <mxCell id="bB6B98M6eBiy5riYellN-20" value="&lt;b&gt;RDBMS&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="bB6B98M6eBiy5riYellN-22" vertex="1">
           <mxGeometry width="62" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="bB6B98M6eBiy5riYellN-28" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.995;exitY=0.63;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="Z36HARrkBUyqiJneXb2r-27" source="bB6B98M6eBiy5riYellN-8" target="bB6B98M6eBiy5riYellN-19" edge="1">
+        <mxCell id="DcNYQLPk8XWVVQtofpmg-1" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/Azure_Database_PostgreSQL_Server.svg;" vertex="1" parent="bB6B98M6eBiy5riYellN-22">
+          <mxGeometry x="14.310000000000002" y="21" width="33.38" height="44.5" as="geometry" />
+        </mxCell>
+        <mxCell id="bB6B98M6eBiy5riYellN-28" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.995;exitY=0.63;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.004;entryY=0.495;entryDx=0;entryDy=0;entryPerimeter=0;" parent="Z36HARrkBUyqiJneXb2r-27" source="bB6B98M6eBiy5riYellN-8" target="DcNYQLPk8XWVVQtofpmg-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="667" y="-52" as="sourcePoint" />
-            <mxPoint x="717" y="-102" as="targetPoint" />
+            <mxPoint x="475.4499999999998" y="91.75" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="Z36HARrkBUyqiJneXb2r-26" value="&lt;b&gt;Inventory Microservice&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="Z36HARrkBUyqiJneXb2r-27" vertex="1">
-          <mxGeometry x="42" width="151" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Z36HARrkBUyqiJneXb2r-28" value="" style="group" parent="bB6B98M6eBiy5riYellN-5" vertex="1" connectable="0">
           <mxGeometry x="99" y="237" width="227" height="133" as="geometry" />

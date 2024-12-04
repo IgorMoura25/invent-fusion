@@ -1,0 +1,92 @@
+# Build results
+bin/
+obj/
+out/
+*.exe
+*.dll
+*.pdb
+*.vshost.exe
+*.apphost.exe
+*.manifest
+*.cache
+*.ilk
+*.idb
+*.log
+*.csproj.user
+*.csproj.FileListAbsolute.txt
+*.suo
+*.userosscache
+*.unsuccessfulbuild
+*.userprefs
+
+# VS Code settings
+.vscode/
+
+# Rider settings
+.idea/
+*.sln.iml
+
+# Visual Studio settings
+*.vs/
+.vs/
+
+# DotNet CLI settings
+*.dotnet_tool
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+project.lock.json
+project.fragment.lock.json
+.nuget/
+
+# Entity Framework
+*.edmx.diagram
+*.edmx.sql
+*_context*.cs
+Migrations/
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+~$*
+
+# Coverage and analysis
+TestResults/
+*.coverage
+*.coveragexml
+*.codecoverage
+
+# Azure and cloud settings
+local.settings.json
+*.azure*
+
+# Generated files
+*.generated.cs
+*.designer.cs
+*.g.cs
+*.g.i.cs
+*.sln.docstates
+
+# Secrets
+secrets.json
+appsettings.Development.json
+
+# Docker
+**/Dockerfile*
+**/docker-compose*
+
+# OS-specific
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Git-specific
+*.orig
+*.rej
+*.patch
+*.diff
